@@ -1,9 +1,7 @@
 # IBM Watson Content Mining Replica
 
-Author: Christoph Schauer
-
-Created: 2019/06/16 / Uploaded: 2019/11/16
-
+Author: Christoph Schauer <br>
+Created: 2019/06/16 / Uploaded: 2019/11/16 <br>
 Version: 0.1
 
 
